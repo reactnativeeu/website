@@ -107,7 +107,7 @@ export default () => (
       </p>
       <p>
         We are preparing a series of workshops that will take place the day before the conference. <br />
-        Join Mike (@grabbou) and Callstack.io crew on September 4th for an all-day intensive session in which <br />
+        Join Mike (@grabbou) and Callstack.io crew on September 5th for an all-day intensive session in which <br />
         we guide you through the native unknowns and all the best practices in building a React Native app.
       </p>
     </Section>
