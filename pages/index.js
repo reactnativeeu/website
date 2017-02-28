@@ -15,7 +15,7 @@ export default () => (
       <meta name="description" value="First conference in the world to focus on anything and everything React Native." />
       <meta property="og:title" content="React Native EU Conference 2017" />
       <meta property="og:description" content="First conference in the world to focus on anything and everything React Native." />
-      <meta property="og:image" content="http://react-native.eu/static/og.png" />
+      <meta property="og:image" content="https://react-native.eu/static/og.png" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charset="UTF-8"/>
       <meta
