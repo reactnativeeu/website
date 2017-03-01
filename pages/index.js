@@ -115,7 +115,7 @@ export default () => (
       <h1>Get your ticket today!</h1>
       <p>
         <a
-          href="https://api.eventlama.com/webpages/react-native-europe-2017#ticketss"
+          href="https://reactnativeeu.eventbrite.com/"
           title="Buy tickets"
         >
           Tickets
