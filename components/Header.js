@@ -8,11 +8,17 @@ export default () => (
           className="logo"
           src="/static/logo@2x.png"
           alt="React Native EU"
+          height={322}
+          width={64}
         />
       </nav>
       <div className="content">
         <a href="http://react-native.eu" title="React Native EU">
-          <img src="/static/mark.png" />
+          <img
+            src="/static/mark.png"
+            height={66}
+            width={74}
+          />
         </a>
         <h1>
           React Native Eu Conference
@@ -27,7 +33,7 @@ export default () => (
         background-image: url(/static/jumbotron_1024_bg.jpg);
         background-position: center center;
         background-repeat: no-repeat;
-        background-attachment: fixed;  
+        background-attachment: fixed;
         background-size: cover;
         background-color: #464646;
       }
