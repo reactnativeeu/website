@@ -26,7 +26,7 @@ export default () => (
         rel="stylesheet"
         type="text/css"
       />
-      <link 
+      <link
         href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"
         rel="stylesheet"
         type="text/css"
@@ -107,9 +107,10 @@ export default () => (
         <img
           src="/static/mike.png"
           alt="Mike (@grabbou)"
+          height={450}
+          width={167}
           style={{
             float: 'left',
-            height: 450,
             marginBottom: -50,
             marginRight: 40,
           }}
