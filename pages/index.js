@@ -65,6 +65,26 @@ export default () => (
         })(window,document,'script','dataLayer','GTM-KRBZGD8');
       `}} />
     </Head>
+    <div>
+      <a href="https://reactnativeeu.eventbrite.com/"  title="Buy tickets">
+        Click here to get your ticket today!
+      </a>
+
+      <style jsx>{`
+        div {
+          background: #fe5c5e;
+          height: 50px;
+          text-align: center;
+          line-height: 50px;
+          font-size: 20px;
+        }
+
+        a {
+          text-decoration: none;
+          color: black;
+        }
+      `}</style>
+    </div>
     <Header />
     <Section>
       <h1>React Native comes to Poland</h1>
@@ -218,7 +238,7 @@ export default () => (
           width: 1000px;
           flex-wrap: wrap;
           justify-content: center;
-          padding-top: 40px;
+          padding-top: 20px;
         }
 
         .speaker {
