@@ -12,7 +12,7 @@ export default () => (
       </nav>
       <div className="content">
         <a href="http://react-native.eu" title="React Native EU">
-          <img src="/static/mark.png" />
+          <img src="/static/mark.png" alt="React Native EU logo" />
         </a>
         <h1>
           React Native Eu Conference
