@@ -230,7 +230,7 @@ export default () => (
             </p>
           </div>
         </div>
-      
+
       </div>
 
       <style jsx>{`
@@ -317,11 +317,30 @@ export default () => (
       <h1>Get your ticket today!</h1>
 
       <p>
-        <a href="https://reactnativeeu.eventbrite.com/"  title="Buy tickets">
+        <a href="https://reactnativeeu.eventbrite.com/" title="Buy tickets">
           Get tickets
         </a>
       </p>
     </Section>
+
+		<Section color="#f1f1f1">
+			<h1>Code of conduct</h1>
+
+			<p>
+				All attendees, organizers, speakers, sponsors, volunteers and 3rd-party staff at React Native
+				EU are required to agree to our code of conduct.
+				<br /> <br />
+
+				We want our guests to feel comfortable and confident that they are in a trustworthy,
+				harassment-free environment, in which they can report any ill-willed activity to the
+				organizers or staff and receive swift resolution.
+			</p>
+			<p>
+				<a href="http://confcodeofconduct.com" title="Code of conduct">
+					Code of conduct
+				</a>
+			</p>
+		</Section>
     <Footer />
   </div>
 );
