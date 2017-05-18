@@ -139,9 +139,7 @@ export default () => (
         Afraid you won't take maximum out of the sessions? No worries.
       </p>
       <p>
-        We are preparing a series of workshops that will take place the day before the conference. <br />
-        Join Mike (@grabbou) and Callstack.io crew on September 5th for an all-day intensive session in which <br />
-        we guide you through the native unknowns and all the best practices in building a React Native app.
+				We are preparing a series of workshops that will take place before the conference. Join us on September 4th and 5th for a 2-day intensive session in which we will guide you through the native unknowns and all the best practices in building a React Native app. The workshops will be sold separately and announced soon.
       </p>
     </Section>
     <Section color="#f1f1f1">
