@@ -321,7 +321,24 @@ export default () => (
       </p>
     </Section>
 
-		<Section color="#f1f1f1">
+		    <Section color="#f1f1f1">
+      <h1>Want to support React Native EU and promote your brand in front of 450 developers? Let’s talk!</h1>
+
+      <p>
+        <a href="static/RNEU2017_SponsorshipOpportunities.pdf" title="Check the brochure">
+          See the brochure
+        </a>
+      </p>
+
+      <p>
+        <a href="mailto:conference@callstack.io?Subject=Sponsorship" title="Contact us">
+          Become a sponsor
+        </a>
+      </p>
+
+    </Section>
+
+    <Section>
 			<h1>Code of conduct</h1>
 
 			<p>
